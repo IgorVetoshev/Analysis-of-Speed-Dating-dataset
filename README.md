@@ -1,5 +1,5 @@
 # Analysis-of-Speed-Dating-dataset
-EDA, modeling
+EDA, ML algorithms (optionally) - logistic regression, random forest, xgboost
 ## Introduction
 This dataset was compiled by Columbia Business School professors Ray Fisman and Sheena Iyengar for their paper Gender Differences in Mate Selection: Evidence From a Speed Dating Experiment.
 
